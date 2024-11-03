@@ -1,0 +1,12 @@
+@import url('../microfrontend/root-config/vendor/normalize.css');
+@import url('../microfrontend/root-config/vendor/fonts.css');
+@import url('../microfrontend/shared/src/blocks/page/page.css');
+@import url('../microfrontend/shared/src/blocks/header/header.css');
+@import url('../microfrontend/shared/src/blocks/content/content.css');
+@import url('../microfrontend/shared/src/blocks/footer/footer.css');
+@import url('../microfrontend/profile-microfrontend/src/blocks/profile/profile.css');
+@import url('../microfrontend/feed-microfrontend/src/blocks/places/places.css');
+@import url('../microfrontend/feed-microfrontend/src/blocks/card/card.css');
+@import url('../microfrontend/shared/src/blocks/popup/popup.css');
+@import url('../microfrontend/shared/src/blocks/popup/_is-opened/popup_is-opened.css');
+@import url('./blocks/auth-form/auth-form.css');
